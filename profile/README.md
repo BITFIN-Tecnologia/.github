@@ -1,3 +1,3 @@
-## ![BF-GH](https://user-images.githubusercontent.com/9750777/220793179-4d17e875-6edc-4960-9554-9f7c749fb5b2.svg)
+![BFGH](https://github.com/BITFIN-Software/.github/assets/9750777/c9849d2c-4efe-4bcd-b3f6-7280d5b3e724)
 ---
 > Para dúvidas, críticas ou sugestões, entre em contato através do e-mail: dev@bitfin.com.br.
